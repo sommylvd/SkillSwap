@@ -9,12 +9,12 @@
 cd C:\xampp\htdocs\dashboard\skillswap\backend
 php artisan serve
 
-Окно 2 (Фронтенд)
-bash
+### Окно 2 (Фронтенд)
+```bash
 cd C:\xampp\htdocs\dashboard\skillswap\frontend
 npm run dev
 
-🌐 Вход в систему
+### 🌐 Вход в систему
 Откройте браузер: http://localhost:5173
 
 👤 Новая регистрация
