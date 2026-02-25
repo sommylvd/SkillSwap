@@ -5,12 +5,12 @@
 Откройте 2 окна терминала:
 
 ### 🖥 Окно 1 — Бэкенд
-cd C:\xampp\htdocs\dashboard\skillswap\backend
-php artisan serve
+1. cd C:\xampp\htdocs\dashboard\skillswap\backend
+2. php artisan serve
 
 ### 💻 Окно 2 — Фронтенд
-cd C:\xampp\htdocs\dashboard\skillswap\frontend
-npm run dev
+1. cd C:\xampp\htdocs\dashboard\skillswap\frontend
+2. npm run dev
 
 ---
 
