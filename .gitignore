@@ -1,0 +1,47 @@
+# --- Laravel (Backend) ---
+/backend/vendor/
+/backend/node_modules/
+/backend/storage/*.key
+/backend/storage/logs/*
+/backend/storage/framework/cache/*
+/backend/storage/framework/sessions/*
+/backend/storage/framework/views/*
+/backend/.env
+/backend/.env.local
+/backend/.env.*.local
+/backend/phpunit.xml
+/backend/tests/coverage.txt
+/backend/.phpunit.result.cache
+/backend/Homestead.yaml
+/backend/Homestead.json
+/backend/.vagrant
+/backend/.idea/
+/backend/.vscode/
+/backend/public/hot
+/backend/public/storage
+/backend/public/mix-manifest.json
+/backend/npm-debug.log
+/backend/yarn-error.log
+
+# --- React (Frontend) ---
+/frontend/node_modules/
+/frontend/dist/
+/frontend/build/
+/frontend/.env
+/frontend/.env.local
+/frontend/.env.development.local
+/frontend/.env.test.local
+/frontend/.env.production.local
+/frontend/npm-debug.log*
+/frontend/yarn-debug.log*
+/frontend/yarn-error.log*
+/frontend/.pnp
+/frontend/.pnp.js
+/frontend/.cache/
+/frontend/.vscode/
+/frontend/.idea/
+
+# --- System Files ---
+.DS_Store
+Thumbs.db
+*.log
